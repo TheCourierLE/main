@@ -1,1 +1,1 @@
-# My personal repositury
+# My personal repository
